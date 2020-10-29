@@ -51,14 +51,11 @@ public class ContainerSmithingTable extends Container {
 			public ItemStack onTake(EntityPlayer thePlayer, ItemStack stack) {
 
 				ContainerSmithingTable.this.inputSlots.setInventorySlotContents(0, ItemStack.EMPTY);
-				ContainerSmithingTable.this.inputSlots.setInventorySlotContents(1, ItemStack.EMPTY);
+				ContainerSmithingTable.this.inputSlots.decrStackSize(1, 1);
 
-				if (worldIn.isRemote) {
-
-					worldIn.playSound(thePlayer, thePlayer.getPosition().getX(), thePlayer.getPosition().getY(),
-							thePlayer.getPosition().getZ(), SoundsHandler.SMITHING_TABLE_USE, SoundCategory.BLOCKS,
-							1.0f, 1.0f);
-				}
+				worldIn.playSound(thePlayer, thePlayer.getPosition().getX(), thePlayer.getPosition().getY(),
+						thePlayer.getPosition().getZ(), SoundsHandler.SMITHING_TABLE_USE, SoundCategory.BLOCKS,
+						1.0f, 1.0f);
 
 				return super.onTake(thePlayer, stack);
 			}

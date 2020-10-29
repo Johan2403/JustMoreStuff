@@ -1,0 +1,46 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "justmorestuff:netherite_scrap" 
+    },
+    
+    {
+      "item": "justmorestuff:netherite_scrap"
+    },
+    
+    {
+      "item": "justmorestuff:netherite_scrap"
+    },
+    
+    {
+      "item": "justmorestuff:netherite_scrap"
+    },
+    
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    
+    {
+      "item": "minecraft:gold_ingot"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "justmorestuff:netherite_ingot",
+        "count": 1
+    }
+}

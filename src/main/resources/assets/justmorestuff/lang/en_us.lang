@@ -1,0 +1,46 @@
+
+//Items
+item.obsidianite_ingot.name=Obsidianite Ingot
+item.obsidianite_scrap.name=Obsidianite Scrap
+item.netherite_ingot.name=Netherite Ingot
+item.netherite_scrap.name=Netherite Scrap
+
+//Blocks
+tile.obsidianite_block.name=Block of Obsidianite
+tile.obsidianite_ore.name=Obsidianite Ore
+tile.netherite_block.name=Block of Netherite
+tile.smithing_table.name=Smithing Table
+tile.ancient_debris.name=Ancient Debris
+
+//Tools
+item.obsidianite_sword.name=Obsidianite Sword
+item.obsidianite_shovel.name=Obsidianite Shovel
+item.obsidianite_pickaxe.name=Obsidianite Pickaxe
+item.obsidianite_axe.name=Obsidianite Axe
+item.obsidianite_hoe.name=Obsidianite Hoe
+
+item.netherite_sword.name=Netherite Sword
+item.netherite_shovel.name=Netherite Shovel
+item.netherite_pickaxe.name=Netherite Pickaxe
+item.netherite_axe.name=Netherite Axe
+item.netherite_hoe.name=Netherite Hoe
+
+//Armor
+item.obsidianite_helmet.name=Obsidianite Helmet
+item.obsidianite_chestplate.name=Obsidianite Chestplate
+item.obsidianite_leggings.name=Obsidianite Leggings
+item.obsidianite_boots.name=Obsidianite Boots
+
+item.netherite_helmet.name=Netherite Helmet
+item.netherite_chestplate.name=Netherite Chestplate
+item.netherite_leggings.name=Netherite Leggings
+item.netherite_boots.name=Netherite Boots
+
+//Food
+item.obsidianite_apple.name=Obsidianite Apple
+
+//Tabs
+itemGroup.justmorestuff=Just More Stuff
+
+//Containers
+container.smithing_table=Smithing Table

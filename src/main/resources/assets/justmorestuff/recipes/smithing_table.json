@@ -1,0 +1,52 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "II",
+        "PP",
+        "PP"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        
+		"P":
+		[
+		  {
+	        "item": "minecraft:planks",
+	        "data": 0
+	      },
+	      {
+	        "item": "minecraft:planks",
+	        "data": 1
+	      },
+	      {
+	        "item": "minecraft:planks",
+	        "data": 2
+	      },
+	      {
+	        "item": "minecraft:planks",
+	        "data": 3
+	      },
+	      {
+	        "item": "minecraft:planks",
+	        "data": 4
+	      },
+	      {
+	        "item": "minecraft:planks",
+	        "data": 5
+	      }
+		]
+    },
+    
+    "result":
+    {
+        "item": "justmorestuff:smithing_table",
+        "count": 1
+    }
+}

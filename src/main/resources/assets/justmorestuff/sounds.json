@@ -1,0 +1,25 @@
+{
+	"block.smithing_table.use": {
+		"category": "block",
+		"subtitle": "block.smithing_table.use",
+		"sounds": [{
+				"name": "justmorestuff:block/smithing_table/smithing_table1",
+				"volume": 1,
+				"pitch": 1,
+				"stream": true
+			},
+			{
+				"name": "justmorestuff:block/smithing_table/smithing_table2",
+				"volume": 1,
+				"pitch": 1,
+				"stream": true
+			},
+			{
+				"name": "justmorestuff:block/smithing_table/smithing_table3",
+				"volume": 1,
+				"pitch": 1,
+				"stream": true
+			}
+		]
+	}
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "justmorestuff",
+  "name": "Just More Stuff",
+  "description": "Adds more ores, blocks and items to Minecraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://curseforge.com/minecraft/mc-mods/just-more-stuff",
+  "updateUrl": "https://gist.githubusercontent.com/Johan2403/de7b4d0b447c5250cc3fcd5931dec56b/raw/JustMoreStuffUpdateJSON.json",
+  "authorList": ["Johan24"],
+  "credits": "Thanks to Mom and Dad.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "justmorestuff:blocks/obsidianite_block"
+   }
+}

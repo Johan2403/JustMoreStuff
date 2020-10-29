@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:block/cube",
+	"textures": {
+		"particle": "justmorestuff:blocks/smithing_table_front",
+		"north": "justmorestuff:blocks/smithing_table_front",
+		"south": "justmorestuff:blocks/smithing_table_front",
+		"east": "justmorestuff:blocks/smithing_table_side",
+		"west": "justmorestuff:blocks/smithing_table_side",
+		"up": "justmorestuff:blocks/smithing_table_top",
+		"down": "justmorestuff:blocks/smithing_table_bottom"
+	}
+}

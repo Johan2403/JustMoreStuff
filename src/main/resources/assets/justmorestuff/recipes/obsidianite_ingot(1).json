@@ -1,0 +1,46 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "justmorestuff:obsidianite_scrap" 
+    },
+    
+    {
+      "item": "justmorestuff:obsidianite_scrap"
+    },
+    
+    {
+      "item": "justmorestuff:obsidianite_scrap"
+    },
+    
+    {
+      "item": "justmorestuff:obsidianite_scrap"
+    },
+    
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    
+    {
+      "item": "minecraft:iron_ingot"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "justmorestuff:obsidianite_ingot",
+        "count": 4
+    }
+}

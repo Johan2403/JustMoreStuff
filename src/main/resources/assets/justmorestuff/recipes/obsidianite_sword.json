@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "O",
+        "O",
+        "S"
+    ],
+    
+    "key":
+    {
+        "O":
+        {
+            "type": "forge:ore_dict",
+            "ore": "ingotObsidianite"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "justmorestuff:obsidianite_sword",
+        "count": 1
+    }
+}

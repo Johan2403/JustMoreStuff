@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "RRR",
+        "RAR",
+        "RRR"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "type": "forge:ore_dict",
+            "ore": "ingotObsidianite"
+        },
+        
+        "A":
+        {
+            "item": "minecraft:apple"
+        }
+    },
+    
+    "result":
+    {
+        "item": "justmorestuff:obsidianite_apple",
+        "count": 1
+    }
+}

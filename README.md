@@ -6,4 +6,4 @@ If you want the sources of this mod you can get it at the
 you can get it at [CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-more-stuff).
 
 If you run into any issues related to this Mod please
-open a new Issue
+open a new Issue here.
